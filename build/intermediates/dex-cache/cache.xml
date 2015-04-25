@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shoulongli/Development/MyStockQuote/myStockQuote/libs/jsoup-1.6.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3ed782721068a6f6a4a537a20fdf7096686c4742">
+        <dex dex="/Users/shoulongli/Development/MyStockQuote/myStockQuote/build/intermediates/pre-dexed/debug/jsoup-1.6.2-69097c9b8e12c2cb06944558a56dce710c6118e2.jar" />
+    </item>
+    <item
+        jar="/Users/shoulongli/Development/MyStockQuote/myStockQuote/build/intermediates/exploded-aar/MyStockQuote/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9b1b520c714c3253c7e5dc43ef38a0b683d00176">
+        <dex dex="/Users/shoulongli/Development/MyStockQuote/myStockQuote/build/intermediates/pre-dexed/debug/classes-173d847f4417a7e733e084cbaa6746bc1d39c520.jar" />
+    </item>
+
+</items>

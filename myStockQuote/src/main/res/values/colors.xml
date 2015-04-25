@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="blue_stroke">#001C77</color>
+    <color name="blue_gradientS">#002DC1</color>
+    <color name="blue_gradientE">#001868</color>
+    <color name="blue_229bd1">#229bd1</color>
+    <color name="white_stroke">#FFFFFF</color>
+    <color name="blue_white_gradientS">#FFFFFF</color>
+    <color name="blue_white_gradientM">#C8DDFF</color>
+    <color name="blue_white_gradientE">#ffdbe7ff</color>
+    <color name="red_white_gradientS">#FFFFFF</color>
+    <color name="red_white_gradientM">#FFAAAA</color>
+    <color name="red_white_gradientE">#ffff4444</color>
+    <color name="red_e91f2e">#e91f2e</color>
+    <color name="pms_484c">#9F2D20</color>
+    <color name="pms_484c_stroke">#000000</color>
+    <color name="pms_484c_gradientS">#CF3B2A</color>
+    <color name="pms_484c_gradientE">#6F2016</color>
+    <color name="pms_484c_disabled">#CE3A29</color>
+    <color name="pms_484c_stroke_disabled">#7F7F7F</color>
+    <color name="pms_484c_gradientS_disabled">#FF4C36</color>
+    <color name="pms_484c_gradientE_disabled">#90281D</color>
+    <color name="pms_877_c">#85888B</color>
+    <color name="gray_bg">#ECECEC</color>
+     <color name="black">#000000</color>
+    <color name="black_323133">#323133</color>
+    <color name="black_808183">#808183</color>
+    <color name="black_454545">#454545</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#770000</color>
+    <color name="grey">#7F7F7F</color>
+    <color name="lt_grey">#C8C8C8</color>
+    <color name="fuelman_gray">#343434</color>
+    <color name="gray_stroke">#1C1C1C</color>
+    <color name="gray_gradientS">#2D2D2D</color>
+    <color name="gray_gradientE">#181818</color>
+    <color name="gray_808083">#808083</color>
+    <color name="gray_e6e7e8">#e6e7e8</color>
+    <color name="gray_b5b7b9">#b5b7b9</color>
+    <color name="orange">#ff6600</color>
+    <color name="green">#33cc00</color>
+    <color name="timecard_green">#ACCD52</color>
+    <color name="blue">#0000ff</color>
+    <color name="systemgray">#aaaaaa</color>
+    <color name="title_background">#ff222222</color>
+    <color name="foreground1">#ff355689</color>
+    <color name="dashboardbg">#dddddd</color>
+    <color name="dashboardbg1">#90c4df</color>
+    <color name="dashboardbg2">#3fb2d7</color>
+    <color name="dashboardbg3">#2088c2</color>
+    <color name="dashboardbg4">#2171a1</color>
+    <color name="divider">#ffcccccc</color>
+    <color name="bottom_bar_text">#ff888888</color>
+    <color name="bottom_bar_bg">#fff1f1f1</color>
+    <color name="actions_bg">#ff3c3c3c</color>
+    <color name="actions_divider">#ff888888</color>
+    <color name="semi_transparent">#c0ffffff</color>
+    <color name="dashboard_textcolor">#04aeda</color>
+    
+    
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="fuelman_red">#ffeb1c2d</color>
+    <color name="fuelman_purple">#ffa14398</color>
+    <color name="fuelman_green">#ff0ccb51</color>
+    <color name="fuelman_blue">#ff333280</color>
+    <color name="fuelman_cyan">#ff2088c6</color>
+    <color name="fuelman_light_green">#ff00b3ac</color>
+    <color name="fuelman_orange">#ffff7b12</color>
+    <color name="fuelman_red_semi_transparent">#e0eb1c2d</color>
+    <color name="fuelman_red_semi_transparent1">#b0eb1c2d</color>
+    <color name="fuelman_purple_semi_transparent">#e0a14398</color>
+    <color name="fuelman_purple_semi_transparent1">#b0a14398</color>
+    <color name="fuelman_green_semi_transparent">#e00ccb51</color>
+    <color name="fuelman_green_semi_transparent1">#b00ccb51</color>
+    <color name="fuelman_blue_semi_transparent">#e0333275</color>
+    <color name="fuelman_blue_semi_transparent1">#b0333275</color>
+    
+    <color name="fuelman_gray_semi_transparent">#e0697c8c</color>
+    <color name="fuelman_gray_semi_transparent1">#b0697c8c</color>
+    
+    
+    <color name="fuelman_dark">#ff231f20</color>
+    <color name="fuelman_gray_light">#ffe6e7e8</color>
+    <color name="fuelman_gray3">#ffb5b7b9</color>
+    <color name="fuelman_gray4">#ff525154</color>
+    <color name="contact_blue">#ff333275</color>
+    <color name="fuelman_ifleet">#ff1c8b92</color>
+	<color name="fuelman_ifleet_focus">#ffe9ccae</color>
+    
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockQuote</string>
+    <string name="symbol">Symbol</string>
+    <string name="lasttrade">Last</string>
+    <string name="change">Chg</string>
+    <string name="changepercent">Chg (%)</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_deleteall">Delete All</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="ask">Ask:</string>
+    <string name="bid">Bid:</string>
+    <string name="volume">Volume:</string>
+    <string name="high">High:</string>
+    <string name="low">Low:</string>
+    <string name="marketcap">MarketCap:</string>
+    <string name="newsheadline">Related News</string>
+    <color name="titleColor">#fff000</color>
+    <string name="onedaychart">1 Day</string>
+    <string name="onemonthchart">1 Month</string>
+    <string name="sixmonthchart">6 Months</string>
+    <string name="fiveyearchart">5 Years</string>
+    <string name="refresh">Refresh</string>
+    <string name="news">Related News</string>
+    <string name="about">About</string>
+    <string name="fivedaychart">5 Days</string>
+    <string name="threemonthchart">3 Months</string>
+    <string name="newsempty">No Related News Found</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="delete">Delete</string>
+    <string name="deleteall">Delete All</string>
+    <string name="menu_new">New</string>
+    <string name="optionchain">Option Chain</string>
+    <string name="calloption">Call Option</string>
+    <string name="putoption">Put Option</string>
+    <string name="query">Query</string>
+    <string name="datehint">YYYY-MM</string>
+    <string name="strike">Strike</string>
+    <string name="optionlast">Last</string>
+    <string name="optionchg">Chg</string>
+    <string name="optionopenint">Open Int</string>
+    <string-array name="optiontype">
+        <item >Call</item>
+        <item >Put</item>
+    </string-array>
+    <string name="lookuphint">Enter Symbol</string>
+    <color name="colorInTheMoney">#ffff88</color>
+    <string name="home">Home</string>
+    <string name="earningsdatehint">YYYYMMDD</string>
+    <string name="epsestimate">EPS Estimate</string>
+    <string name="earningstime">Time</string>
+    <string name="companylabel">Company</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string-array name="querytype">
+        <item >by symbol</item>
+        <item >by date</item>
+    </string-array>
+    <string name="earningscalendar">Earnings Calendar</string>
+
+</resources>

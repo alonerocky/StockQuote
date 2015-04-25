@@ -1,0 +1,152 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From MyStockQuote:
+* FAQ.txt
+* MyStockQuote.apk
+* MyStockQuote_20140211.apk
+* MyStockQuote_20140212.apk
+* MyStockQuote_20140930.apk
+* Stock Quote-feature-graphic(2).png
+* ant.properties
+* build.xml
+* debug.keystore
+* google_map_api_key.txt
+* local.properties.bak
+* proguard.cfg
+* readme.txt
+* readme.txt.bak
+* releasenotes.txt
+* releases/
+* releases/1.0_20120415/
+* releases/1.0_20120415/StockQuote-release-unaligned.apk
+* releases/1.0_20120415/StockQuote-release-unsigned.apk
+* releases/1.0_20120415/StockQuote_1.0_20120416.apk
+* releases/1.0_20120415/releasenotes.txt
+* releases/1.0_20120415/screenshot/
+* releases/1.0_20120415/screenshot/newslist.png
+* releases/1.0_20120415/screenshot/stockdelete.png
+* releases/1.0_20120415/screenshot/stockdetail.png
+* releases/1.0_20120415/screenshot/stockdetailmenu.png
+* releases/1.0_20120415/screenshot/stocklist.png
+* releases/1.0_20120415/screenshot/stocklookup.png
+* releases/1.0_20120415/stockquote.png
+* releases/1.1_20120418/
+* releases/1.1_20120418/StockQuote-release-unaligned.apk
+* releases/1.1_20120418/StockQuote-release-unsigned.apk
+* releases/1.1_20120418/StockQuote-release.apk
+* releases/1.1_20120418/StockQuote_1.1_20120418.apk
+* releases/1.2.1_20120508/
+* releases/1.2.1_20120508/StockQuote-release-unaligned.apk
+* releases/1.2.1_20120508/StockQuote-release-unsigned.apk
+* releases/1.2.1_20120508/StockQuote-release.apk
+* releases/1.2.1_20120508/StockQuote_1.2.1_20120508.apk
+* releases/1.2.1_20120508/readme.txt
+* releases/1.2.1_20120508/releasenotes.txt
+* releases/1.2_20120426/
+* releases/1.2_20120426/StockQuote-release-unaligned.apk
+* releases/1.2_20120426/StockQuote-release-unsigned.apk
+* releases/1.2_20120426/StockQuote_1.2_20120426.apk
+* releases/1.2_20120426/releasenotes.txt
+* releases/1.2_20120426/screenshot/
+* releases/1.2_20120426/screenshot/newslist.png
+* releases/1.2_20120426/screenshot/optionchain.png
+* releases/1.2_20120426/screenshot/screendelete.png
+* releases/1.2_20120426/screenshot/screendetail.png
+* releases/1.2_20120426/screenshot/screendetailmenu.png
+* releases/1.2_20120426/screenshot/stockdelete.png
+* releases/1.2_20120426/screenshot/stockdetail.png
+* releases/1.2_20120426/screenshot/stockdetailmenu.png
+* releases/1.2_20120426/screenshot/stocklist.png
+* releases/1.2_20120426/screenshot/stocklookup.png
+* releases/1.3.1_20120730/
+* releases/1.3.1_20120730/StockQuote-release-unaligned.apk
+* releases/1.3.1_20120730/StockQuote-release-unsigned.apk
+* releases/1.3.1_20120730/StockQuote-release.apk
+* releases/1.3.1_20120730/StockQuote_1.3.1_20120730.apk
+* releases/1.3.1_20120730/readme.txt
+* releases/1.3.1_20120730/releasenotes.txt
+* releases/1.3.1_20120730/screenshot/
+* releases/1.3.1_20120730/screenshot/earnings.png
+* releases/1.3.1_20120730/screenshot/newslist.png
+* releases/1.3.1_20120730/screenshot/optionchain.png
+* releases/1.3.1_20120730/screenshot/stockdelete.png
+* releases/1.3.1_20120730/screenshot/stockdetail.png
+* releases/1.3.1_20120730/screenshot/stockdetailmenu.png
+* releases/1.3.1_20120730/screenshot/stocklist.png
+* releases/1.3.1_20120730/screenshot/stocklookup.png
+* releases/1.3.2_20130415/
+* releases/1.3.2_20130415/StockQuote-release-unaligned.apk
+* releases/1.3.2_20130415/StockQuote-release-unsigned.apk
+* releases/1.3.2_20130415/StockQuote-release.apk
+* releases/1.3.2_20130415/readme.txt
+* releases/1.3.2_20130415/releasenotes.txt
+* releases/1.3.3_20140211/
+* releases/1.3.3_20140211/MyStockQuote_20140211.apk
+* releases/1.3.3_20140211/readme.txt
+* releases/1.3.3_20140211/releasenotes.txt
+* releases/1.3.3_20140211/releasenotes.txt.bak
+* releases/1.3.4_20140212/
+* releases/1.3.4_20140212/MyStockQuote_20140212.apk
+* releases/1.3_20120727/
+* releases/1.3_20120727/StockQuote-release-unaligned.apk
+* releases/1.3_20120727/StockQuote-release-unsigned.apk
+* releases/1.3_20120727/StockQuote-release.apk
+* releases/1.3_20120727/StockQuote-release_1.3.20120727.apk
+* releases/1.3_20120727/earnings.png
+* releases/1.3_20120727/readme.txt
+* releases/1.3_20120727/releasenotes.txt
+* stockquote.keystore
+From library:
+* LICENSE
+* ant.properties
+* build.xml
+* local.properties.bak
+* pom.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In library:
+* AndroidManifest.xml => library/src/main/AndroidManifest.xml
+* assets/ => library/src/main/assets/
+* res/ => library/src/main/res/
+* src/ => library/src/main/java/
+In MyStockQuote:
+* AndroidManifest.xml => myStockQuote/src/main/AndroidManifest.xml
+* assets/ => myStockQuote/src/main/assets/
+* libs/jsoup-1.6.2.jar => myStockQuote/libs/jsoup-1.6.2.jar
+* res/ => myStockQuote/src/main/res/
+* src/ => myStockQuote/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

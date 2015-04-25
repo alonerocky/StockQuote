@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/refresh" android:title="@string/refresh"></item><item android:id="@+id/optionchain" android:title="@string/optionchain"></item><item android:id="@+id/news" android:title="@string/news"></item>
+    <item android:id="@+id/earnings" android:title="@string/earningscalendar"></item><group android:id="@+id/charts" android:menuCategory="secondary">
+        <item android:id="@+id/oneday" android:title="@string/onedaychart"></item>
+        <item android:id="@+id/fiveday" android:title="@string/fivedaychart"></item>
+        <item android:id="@+id/threemonth" android:title="@string/threemonthchart"></item>
+        <item android:id="@+id/sixmonth" android:title="@string/sixmonthchart"></item>
+        <item android:id="@+id/fiveyear" android:title="@string/fiveyearchart"></item>
+    </group>
+    
+    
+    
+    
+    
+
+</menu><!-- From: file:/Users/shoulongli/Development/MyStockQuote/myStockQuote/src/main/res/menu/optionsondetail.xml -->
