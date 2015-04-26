@@ -1,3 +1,0 @@
-/Users/shoulongli/Development/MyStockQuote/myStockQuote/build/intermediates/classes/debug
-/Users/shoulongli/Development/MyStockQuote/myStockQuote/build/intermediates/pre-dexed/debug/classes-173d847f4417a7e733e084cbaa6746bc1d39c520.jar
-/Users/shoulongli/Development/MyStockQuote/myStockQuote/build/intermediates/pre-dexed/debug/jsoup-1.6.2-69097c9b8e12c2cb06944558a56dce710c6118e2.jar
