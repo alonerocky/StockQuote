@@ -64,7 +64,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         android:text="Last Trade"
-                        android:textAppearance="?android:attr/textAppearanceLarge" />
+                        android:textAppearance="?android:attr/textAppearanceMedium" />
 
                    
                 </TableRow>
@@ -85,7 +85,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:text="2.3"
-                            android:textAppearance="?android:attr/textAppearanceLarge" />
+                            android:textAppearance="?android:attr/textAppearanceMedium" />
 
                         <TextView
                             android:id="@+id/stockChangePercent"
@@ -93,7 +93,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:text="2.5%"
-                            android:textAppearance="?android:attr/textAppearanceLarge" />
+                            android:textAppearance="?android:attr/textAppearanceMedium" />
                     </LinearLayout>
 
                      <LinearLayout
@@ -124,7 +124,7 @@
                 android:id="@+id/stockChart"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal" />
+                android:src="@drawable/stock_chart_placeholder"/>
 
             <TableLayout
                 android:layout_width="fill_parent"
@@ -407,7 +407,7 @@
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical" 
-    android:paddingTop="10dp">
+    android:paddingTop="5dp">
         
     <RelativeLayout 
         android:layout_width="fill_parent"
