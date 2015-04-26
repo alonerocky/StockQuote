@@ -123,7 +123,7 @@
                             android:id="@+id/lastLable"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Last Trade:"
+                            android:text="Last Trade: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -167,7 +167,7 @@
                             android:id="@+id/timeLabel"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Time:"
+                            android:text="Time: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -211,7 +211,7 @@
                             android:id="@+id/prevcloseLable"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Prev Close:"
+                            android:text="Prev Close: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -231,7 +231,7 @@
                             android:id="@+id/marketcapLabel"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Market Cap:"
+                            android:text="Market Cap: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -257,7 +257,7 @@
                             android:id="@+id/peLable"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="P/E:"
+                            android:text="P/E: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -277,7 +277,7 @@
                             android:id="@+id/dayrangeLabel"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Day&apos;s Range:"
+                            android:text="Day&apos;s Range: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -303,7 +303,7 @@
                             android:id="@+id/epsLable"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="EPS:"
+                            android:text="EPS: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -323,7 +323,7 @@
                             android:id="@+id/yearrangeLabel"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="52wk Range:"
+                            android:text="52wk Range: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -349,7 +349,7 @@
                             android:id="@+id/dividendLable"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Dividend Yield:"
+                            android:text="Dividend Yield: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView
@@ -369,7 +369,7 @@
                             android:id="@+id/yeartargetLabel"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="1y Target Est:"
+                            android:text="1y Target Est: "
                             android:textAppearance="?android:attr/textAppearanceSmall" />
 
                         <TextView

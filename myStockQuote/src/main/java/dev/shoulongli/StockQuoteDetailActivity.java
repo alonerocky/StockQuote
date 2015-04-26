@@ -37,9 +37,6 @@ import com.bumptech.glide.Glide;
 public class StockQuoteDetailActivity extends Activity implements 
 StockLoaderCallback, RssLoaderCallback
 {
-
-	
-	
 	private Handler mHandler = new Handler();
 	private Runnable refreshTask;
 	private String symbol;
@@ -93,10 +90,6 @@ StockLoaderCallback, RssLoaderCallback
 			};			
 			
 		}
-		
-		
-		
-
 	}
 	private void refresh()
 	{
@@ -295,35 +288,30 @@ StockLoaderCallback, RssLoaderCallback
 			viewOptionChain();
 			break;
 		case R.id.oneday:
-			//ImageDownloadManager.getInstance().download(StockQuoteConfigure.STOCK_CHART_ONE_DAY + symbol, stockChart);
             Glide.with(this).load(StockQuoteConfigure.STOCK_CHART_ONE_DAY + symbol).fitCenter()
                     .placeholder(R.drawable.stock_chart_placeholder)
                     .crossFade()
                     .into(stockChart);
 			break;
 		case R.id.fiveday:
-			//ImageDownloadManager.getInstance().download(StockQuoteConfigure.STOCK_CHART_FIVE_DAY + symbol, stockChart);
             Glide.with(this).load(StockQuoteConfigure.STOCK_CHART_FIVE_DAY + symbol).fitCenter()
                     .placeholder(R.drawable.stock_chart_placeholder)
                     .crossFade()
                     .into(stockChart);
 			break;
 		case R.id.threemonth:
-			//ImageDownloadManager.getInstance().download(StockQuoteConfigure.STOCK_CHART_THREE_MONTH + symbol, stockChart);
             Glide.with(this).load(StockQuoteConfigure.STOCK_CHART_THREE_MONTH + symbol).fitCenter()
                     .placeholder(R.drawable.stock_chart_placeholder)
                     .crossFade()
                     .into(stockChart);
             break;
 		case R.id.sixmonth:
-			//ImageDownloadManager.getInstance().download(StockQuoteConfigure.STOCK_CHART_SIX_MONTH + symbol, stockChart);
             Glide.with(this).load(StockQuoteConfigure.STOCK_CHART_SIX_MONTH + symbol).fitCenter()
                     .placeholder(R.drawable.stock_chart_placeholder)
                     .crossFade()
                     .into(stockChart);
             break;
 		case R.id.fiveyear:
-			//ImageDownloadManager.getInstance().download(StockQuoteConfigure.STOCK_CHART_FIVE_YEAR + symbol, stockChart);
             Glide.with(this).load(StockQuoteConfigure.STOCK_CHART_FIVE_YEAR + symbol).fitCenter()
                     .placeholder(R.drawable.stock_chart_placeholder)
                     .crossFade()
